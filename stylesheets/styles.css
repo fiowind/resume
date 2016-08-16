@@ -883,6 +883,7 @@ footer {
 
   #banner {
     width: 100%;
+    display:none;
   }
   #banner .downloads {
     margin-right: 60px;
